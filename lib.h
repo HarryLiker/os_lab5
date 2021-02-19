@@ -1,2 +1,2 @@
-double e(int x);
-double Pi(int x);
+double Pi(int x); // Функция расчёта числа Пи
+double E(int x); // Функция расчёта числа e
